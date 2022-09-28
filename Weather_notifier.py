@@ -44,7 +44,7 @@ def weather(city):
 
 #print("enter the city name")
 
-##city=input()
+#city=input()
 
 city = "Visakhapatnam"
 
